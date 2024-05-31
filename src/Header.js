@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Photo from "/Users/lewisherman/Coding/aifullstackwebsites/src/AIwebsites.jpg";
 function Header() {
   return (
     <header>
