@@ -23,9 +23,7 @@ const Home = () => {
         <h2>Our Services</h2>
         <ul>
           <li><strong>Website Development:</strong> End-to-end web development services for businesses of all sizes.</li>
-          <li><strong>E-commerce Solutions:</strong> Robust and scalable e-commerce platforms to take your business online.</li>
-          <li><strong>Content Management Systems:</strong> Easy-to-use CMS solutions for effortless content updates and management.</li>
-          <li><strong>Web Hosting:</strong> Reliable and secure web hosting services to keep your website running smoothly.</li>
+           <li><strong>Web Hosting:</strong> Reliable and secure web hosting services to keep your website running smoothly.</li>
           <li><strong>Maintenance & Support:</strong> Ongoing maintenance and support to ensure your website stays up-to-date and secure.</li>
         </ul>
       </section>
